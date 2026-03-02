@@ -1,0 +1,1014 @@
+{
+  "gold": 0,
+  "stamina": 300,
+  "maxStamina": 300,
+  "lastStaminaUpdate": 1771923570947,
+  "inventory": [
+    {
+      "id": "sx9lhgcs4",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0ziylz4fh",
+      "pokedexId": 26,
+      "name": "雷丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 180,
+      "baseAtk": 420,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "s5jh31jzt",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "amu6woyne",
+      "pokedexId": 11,
+      "name": "铁甲蛹",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 60,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "fo1d343uj",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "n3gq4wl9u",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "kkte9qgj9",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0zmy8j1tp",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "nsana679h",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5ychxxm9y",
+      "pokedexId": 20,
+      "name": "拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 130,
+      "baseAtk": 190,
+      "baseDef": 150,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "2hfalm899",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3dfkm7qk9",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "chn6s2h9c",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "weqmqtjca",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "baseSpeed": 50,
+      "baseSpAtk": 50,
+      "level": 1,
+      "exp": 0,
+      "equipment": {}
+    }
+  ],
+  "teamIds": [
+    "starter"
+  ],
+  "savedTeamIds": [
+    "starter"
+  ],
+  "equipmentInventory": [],
+  "unlockedStages": 1,
+  "pokedexStatus": [
+    {
+      "pokedexId": 4,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 5,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 6,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 255,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 256,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 257,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 146,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 646,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 7,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 8,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 9,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 116,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 117,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 230,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 144,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 384,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 1,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 2,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 3,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 43,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 44,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 45,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 716,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 25,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 26,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 81,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 82,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 462,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 145,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 172,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 86,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 87,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 131,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 361,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 362,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 583,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 66,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 67,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 68,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 106,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 107,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 108,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 109,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 110,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 94,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 74,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 75,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 76,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 328,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 329,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 330,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 16,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 17,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 18,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 415,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 416,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 417,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 138,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 139,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 142,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 10,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 11,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 12,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 92,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 93,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 94,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 487,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 122,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 132,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 133,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 134,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 65,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 493,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 147,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 148,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 149,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 384,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 228,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 229,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 248,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 798,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 374,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 375,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 35,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 36,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 173,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 174,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 178,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 113,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 114,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 13,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 14,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 15,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 19,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 20,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 135,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 136,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 143,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 445,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 571,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 150,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 151,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 243,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 244,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 245,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 249,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 250,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 251,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 385,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    },
+    {
+      "pokedexId": 386,
+      "obtained": false,
+      "count": 0,
+      "maxStars": 0
+    }
+  ],
+  "equipmentStatus": [
+    {
+      "equipmentId": "sword_1",
+      "name": "铁剑",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "shield_1",
+      "name": "铁盾",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "potion_1",
+      "name": "小药水",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "sword_2",
+      "name": "钢剑",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "shield_2",
+      "name": "钢盾",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "potion_2",
+      "name": "中药水",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "sword_3",
+      "name": "圣剑",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "shield_3",
+      "name": "圣盾",
+      "obtained": false,
+      "count": 0
+    },
+    {
+      "equipmentId": "potion_3",
+      "name": "大药水",
+      "obtained": false,
+      "count": 0
+    }
+  ],
+  "achievements": [
+    {
+      "id": "collect_pokemon",
+      "name": "宝可梦收集者",
+      "description": "收集50只宝可梦",
+      "reward": 1000,
+      "target": 50,
+      "completed": false
+    },
+    {
+      "id": "evolve_pokemon",
+      "name": "进化大师",
+      "description": "进化10只宝可梦",
+      "reward": 500,
+      "target": 10,
+      "completed": false
+    },
+    {
+      "id": "win_battles",
+      "name": "战斗冠军",
+      "description": "赢得50场战斗",
+      "reward": 1000,
+      "target": 50,
+      "completed": false
+    },
+    {
+      "id": "gacha_10x",
+      "name": "十连抽爱好者",
+      "description": "进行10次十连抽",
+      "reward": 800,
+      "target": 10,
+      "completed": false
+    },
+    {
+      "id": "synthesis",
+      "name": "合成专家",
+      "description": "合成20次宝可梦",
+      "reward": 600,
+      "target": 20,
+      "completed": false
+    },
+    {
+      "id": "equipment_master",
+      "name": "装备大师",
+      "description": "收集30件装备",
+      "reward": 700,
+      "target": 30,
+      "completed": false
+    }
+  ]
+}

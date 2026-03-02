@@ -1,0 +1,139 @@
+{
+  "equipmentTemplates": [
+    {
+      "name": "锐利之爪",
+      "slot": "Weapon",
+      "rarity": "Common",
+      "atkBonus": 25,
+      "defBonus": 5,
+      "hpBonus": 15,
+      "description": "锋利的爪子，大幅提升攻击力"
+    },
+    {
+      "name": "坚硬外壳",
+      "slot": "Armor", 
+      "rarity": "Common",
+      "atkBonus": 5,
+      "defBonus": 25,
+      "hpBonus": 15,
+      "description": "坚固的外壳，大幅提升防御力"
+    },
+    {
+      "name": "丝绸围巾",
+      "slot": "Accessory",
+      "rarity": "Common", 
+      "atkBonus": 10,
+      "defBonus": 10,
+      "hpBonus": 50,
+      "description": "柔软的围巾，均衡提升各项属性"
+    },
+    {
+      "name": "龙之利爪",
+      "slot": "Weapon",
+      "rarity": "Uncommon",
+      "atkBonus": 60,
+      "defBonus": 15,
+      "hpBonus": 30,
+      "description": "传说中的龙爪，攻击力大幅提升"
+    },
+    {
+      "name": "钢铁护甲",
+      "slot": "Armor",
+      "rarity": "Uncommon",
+      "atkBonus": 15,
+      "defBonus": 60,
+      "hpBonus": 30,
+      "description": "精钢打造的护甲，防御力大幅提升"
+    },
+    {
+      "name": "神秘项链",
+      "slot": "Accessory",
+      "rarity": "Uncommon",
+      "atkBonus": 25,
+      "defBonus": 25,
+      "hpBonus": 100,
+      "description": "蕴含神秘力量的项链，全面增强"
+    },
+    {
+      "name": "传奇武器",
+      "slot": "Weapon",
+      "rarity": "Rare",
+      "atkBonus": 120,
+      "defBonus": 30,
+      "hpBonus": 60,
+      "description": "传奇级别的武器，攻击力惊人"
+    },
+    {
+      "name": "传奇护甲",
+      "slot": "Armor",
+      "rarity": "Rare",
+      "atkBonus": 30,
+      "defBonus": 120,
+      "hpBonus": 60,
+      "description": "传奇级别的护甲，坚不可摧"
+    },
+    {
+      "name": "传奇饰品",
+      "slot": "Accessory",
+      "rarity": "Rare",
+      "atkBonus": 50,
+      "defBonus": 50,
+      "hpBonus": 200,
+      "description": "传奇级别的饰品，全面提升"
+    },
+    {
+      "name": "史诗武器",
+      "slot": "Weapon",
+      "rarity": "Epic",
+      "atkBonus": 200,
+      "defBonus": 50,
+      "hpBonus": 100,
+      "description": "史诗级别的武器，毁天灭地"
+    },
+    {
+      "name": "史诗护甲",
+      "slot": "Armor",
+      "rarity": "Epic",
+      "atkBonus": 50,
+      "defBonus": 200,
+      "hpBonus": 100,
+      "description": "史诗级别的护甲，固若金汤"
+    },
+    {
+      "name": "史诗饰品",
+      "slot": "Accessory",
+      "rarity": "Epic",
+      "atkBonus": 80,
+      "defBonus": 80,
+      "hpBonus": 300,
+      "description": "史诗级别的饰品，全面提升"
+    },
+    {
+      "name": "神之武器",
+      "slot": "Weapon",
+      "rarity": "Legendary",
+      "atkBonus": 350,
+      "defBonus": 80,
+      "hpBonus": 150,
+      "description": "神明使用的武器，无人能挡"
+    },
+    {
+      "name": "神之护甲",
+      "slot": "Armor",
+      "rarity": "Legendary",
+      "atkBonus": 80,
+      "defBonus": 350,
+      "hpBonus": 150,
+      "description": "神明使用的护甲，坚不可摧"
+    },
+    {
+      "name": "神之饰品",
+      "slot": "Accessory",
+      "rarity": "Legendary",
+      "atkBonus": 120,
+      "defBonus": 120,
+      "hpBonus": 500,
+      "description": "神明使用的饰品，全面提升"
+    }
+  ]
+}

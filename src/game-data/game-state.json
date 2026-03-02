@@ -1,0 +1,4380 @@
+{
+  "gold": 600,
+  "stamina": 81,
+  "maxStamina": 100,
+  "lastStaminaUpdate": 1771225750432,
+  "inventory": [
+    {
+      "id": "7wpi89peo",
+      "pokedexId": 146,
+      "name": "火焰鸟",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "rarity": "Epic",
+      "stars": 1,
+      "baseHp": 1190,
+      "baseAtk": 2479,
+      "baseDef": 1117,
+      "level": 5,
+      "equipment": {
+        "Accessory": {
+          "id": "2kdrx9tyd",
+          "name": "丝绸围巾",
+          "slot": "Accessory",
+          "atkBonus": 32,
+          "defBonus": 32,
+          "hpBonus": 200,
+          "typeAffinity": "Fire",
+          "rarity": "Rare",
+          "skill": "致命一击",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png"
+        }
+      },
+      "exp": 1250
+    },
+    {
+      "id": "kyssg4lab",
+      "pokedexId": 15,
+      "name": "大针蜂",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 156,
+      "baseAtk": 224,
+      "baseDef": 133,
+      "level": 4,
+      "equipment": {},
+      "exp": 950
+    },
+    {
+      "id": "lnxauv9dr",
+      "pokedexId": 149,
+      "name": "快龙",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "rarity": "Epic",
+      "stars": 1,
+      "baseHp": 1041,
+      "baseAtk": 2325,
+      "baseDef": 1098,
+      "level": 4,
+      "equipment": {},
+      "exp": 950
+    },
+    {
+      "id": "gny1lykeb",
+      "pokedexId": 135,
+      "name": "雷伊布",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 480,
+      "baseDef": 240,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "xv9gji0rt",
+      "pokedexId": 15,
+      "name": "大针蜂",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 200,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "fn9esfl0g",
+      "pokedexId": 244,
+      "name": "炎帝",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Legendary",
+      "stars": 1,
+      "baseHp": 2313,
+      "baseAtk": 4831,
+      "baseDef": 2471,
+      "level": 3,
+      "equipment": {
+        "Weapon": {
+          "id": "5tb6niv9b",
+          "name": "冰霜长矛",
+          "slot": "Weapon",
+          "atkBonus": 35,
+          "defBonus": 14,
+          "hpBonus": 28,
+          "typeAffinity": "Fire",
+          "rarity": "Uncommon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png"
+        }
+      },
+      "exp": 300
+    },
+    {
+      "id": "dl6jj8ayw",
+      "pokedexId": 143,
+      "name": "卡比兽",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 640,
+      "baseAtk": 660,
+      "baseDef": 260,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "l1cw7ikmc",
+      "pokedexId": 18,
+      "name": "大比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 180,
+      "baseAtk": 210,
+      "baseDef": 170,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "9wjaq5rab",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "b88p04bv9",
+      "pokedexId": 136,
+      "name": "火伊布",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 540,
+      "baseDef": 240,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "79o31kpdy",
+      "pokedexId": 144,
+      "name": "急冻鸟",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 280,
+      "baseAtk": 240,
+      "baseDef": 220,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "gbfca6jvc",
+      "pokedexId": 145,
+      "name": "闪电鸟",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 280,
+      "baseAtk": 240,
+      "baseDef": 220,
+      "baseSpeed": 50,
+      "baseSpAtk": 50,
+      "level": 1,
+      "exp": 0,
+      "equipment": {}
+    },
+    {
+      "id": "ne2f1q8s0",
+      "pokedexId": 26,
+      "name": "雷丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 180,
+      "baseAtk": 420,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "09ublcohv",
+      "pokedexId": 144,
+      "name": "急冻鸟",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 280,
+      "baseAtk": 240,
+      "baseDef": 220,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "07t6qk10j",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "f6rxxgln8",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "2710xzcvb",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "qsrwmlpds",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0brarqnik",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "07d53z67n",
+      "pokedexId": 146,
+      "name": "火焰鸟",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "rarity": "Epic",
+      "stars": 1,
+      "baseHp": 980,
+      "baseAtk": 2040,
+      "baseDef": 920,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "juv829qqe",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "tjlntyc6j",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 126,
+      "baseAtk": 198,
+      "baseDef": 162,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "4bqwcy7wu",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 144,
+      "baseAtk": 108,
+      "baseDef": 126,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jz1ttxn98",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 252,
+      "baseAtk": 594,
+      "baseDef": 288,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "rvl536jb4",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 396,
+      "baseAtk": 594,
+      "baseDef": 360,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "b04e5v4uk",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 144,
+      "baseAtk": 126,
+      "baseDef": 126,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "k714h2srj",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 126,
+      "baseAtk": 198,
+      "baseDef": 162,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "f5m252qwy",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 144,
+      "baseAtk": 126,
+      "baseDef": 126,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "dsd2ik77g",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 252,
+      "baseAtk": 594,
+      "baseDef": 288,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "be1pb8wn9",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 144,
+      "baseAtk": 108,
+      "baseDef": 126,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ypi0tofu9",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 2,
+      "baseHp": 396,
+      "baseAtk": 594,
+      "baseDef": 360,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "594rim8s6",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 3,
+      "baseHp": 126,
+      "baseAtk": 167,
+      "baseDef": 138,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "j9yjiq5n4",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 3,
+      "baseHp": 291,
+      "baseAtk": 475,
+      "baseDef": 316,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mwmfxalck",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 3,
+      "baseHp": 284,
+      "baseAtk": 466,
+      "baseDef": 421,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "2z2twzix5",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 2,
+      "baseHp": 216,
+      "baseAtk": 351,
+      "baseDef": 264,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "4jrg0fm99",
+      "pokedexId": 11,
+      "name": "铁甲蛹",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Uncommon",
+      "stars": 2,
+      "baseHp": 180,
+      "baseAtk": 108,
+      "baseDef": 198,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "rrwb2zz5l",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 2,
+      "baseHp": 226,
+      "baseAtk": 367,
+      "baseDef": 259,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "waqfnh5aa",
+      "pokedexId": 20,
+      "name": "拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Uncommon",
+      "stars": 2,
+      "baseHp": 234,
+      "baseAtk": 342,
+      "baseDef": 270,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "hgrd5so67",
+      "pokedexId": 12,
+      "name": "巴大蝶",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "rarity": "Rare",
+      "stars": 2,
+      "baseHp": 252,
+      "baseAtk": 252,
+      "baseDef": 198,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "hwnt5fi04",
+      "pokedexId": 134,
+      "name": "水伊布",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Rare",
+      "stars": 2,
+      "baseHp": 504,
+      "baseAtk": 486,
+      "baseDef": 396,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "axrf44b31",
+      "pokedexId": 149,
+      "name": "快龙",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "rarity": "Epic",
+      "stars": 2,
+      "baseHp": 1812,
+      "baseAtk": 4048,
+      "baseDef": 1913,
+      "level": 3,
+      "equipment": {},
+      "exp": 300
+    },
+    {
+      "id": "otscq4ed9",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5iqaf0dv0",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "w28ma1fnb",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "1ite2u90c",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "zcwz1pzih",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "o92ce6c1u",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "991um4nvw",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "6wc222mb9",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "vof0n0wd4",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "107g28j8n",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "t3nf2mph0",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "xm3ejyse1",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u8tqobs85",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0c5l20y4s",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "6ulm8nhja",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u97budt7w",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "irpk0fg96",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "qjfqrs1as",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "xxjck80p9",
+      "pokedexId": 145,
+      "name": "闪电鸟",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 280,
+      "baseAtk": 240,
+      "baseDef": 220,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "t00whp92t",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "82s8p7415",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "six4vdxwh",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ckvvkng7y",
+      "pokedexId": 146,
+      "name": "火焰鸟",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "rarity": "Epic",
+      "stars": 1,
+      "baseHp": 980,
+      "baseAtk": 2040,
+      "baseDef": 920,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "c2y4bypec",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "owz0nfzep",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "h02dlh4us",
+      "pokedexId": 20,
+      "name": "拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 130,
+      "baseAtk": 190,
+      "baseDef": 150,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "fndhvzcsc",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5wpco7ma5",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "vzyyyb8nq",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "qj0skg07v",
+      "pokedexId": 14,
+      "name": "铁壳蛹",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 70,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "l995v545q",
+      "pokedexId": 11,
+      "name": "铁甲蛹",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 60,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "qcap99iyx",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "gv57qpv9g",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3qvi8813o",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5tsqcy8z7",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "dydhapxd6",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "clkp746qh",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "kxu9b7b5i",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "aihvqbz8d",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "n8e8tp1jw",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ti3yyvnch",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "6cwtsuy7j",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u8b1rc8dj",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ffckp5e8h",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "fmjzvre6n",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "lfc9nsgou",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "6g2whfzt0",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mtcef6xem",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "498tor0rn",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "213dje120",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "yu56n6120",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5ff1nmy9m",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "7dr2iuzt8",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "1u1mguhcv",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "b00tgz88k",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "j0kfwkgqd",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "anh9q9i1s",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "yhqdslo85",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "9zi8gpv9g",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "c4vjar627",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0f7p7qts6",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "i7id6h7ly",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "sl2hs14qq",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "o1cfwh7ji",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "vhjtrr3wl",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "z5u8fj7my",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "kt4dk03ny",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3qc0ayeyi",
+      "pokedexId": 14,
+      "name": "铁壳蛹",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 70,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0ed3kj49w",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "cyf8lpj6m",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "az321n152",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mdlurkosu",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "hpfgcaymc",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "9wpklqzzj",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3is5j9ho0",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "6u1so64cl",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3o8x176fl",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "avg5qnsm3",
+      "pokedexId": 20,
+      "name": "拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 130,
+      "baseAtk": 190,
+      "baseDef": 150,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "wdr0hxmsr",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "z6lt4500b",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jlbkosf3g",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "m9g6iwrli",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3hbd2rbj7",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "n3xmpa1lk",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "19rboc5sw",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "58pvseeua",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3dgtff1b3",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "lun72acf4",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "noo835zv6",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "d0w61lx0u",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u6z7sue7c",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "nv6vaae80",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "x0ktgndlh",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u8bcp0uzj",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5qqlmlyzs",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5m3px83rv",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ikn34w1h1",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "gmw0586ww",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ev53mx378",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "iau03xum6",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "7777zurji",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5192zc4g2",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "4fpm79gb5",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "080emug3f",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ny3ot19f4",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "swrezemuq",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "xrsffzas2",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "p85a2k4p1",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "i3se00ew2",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "lqsj1t0uq",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "dj7r0bmb5",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "1iqxih1m0",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "e7thtgxhn",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "fzfl5q4h9",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3xvj2ppxx",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "uh882fkol",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "bqkv6lp50",
+      "pokedexId": 14,
+      "name": "铁壳蛹",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 70,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mlyfveghd",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ej10k4924",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "d5jkljxxs",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "xjfykxxsx",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "a90lxjws8",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3k3swokqf",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "azpfwosh0",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ra9gri7rs",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "9ok5f04np",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "z4r4fpgb4",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mjyj7bht7",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "tgwljwiyd",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "qv2exlk6q",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "pzedgz0da",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mp53sfrkw",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "yh5lar462",
+      "pokedexId": 571,
+      "name": "索罗亚克",
+      "types": [
+        "Dark"
+      ],
+      "rarity": "Epic",
+      "stars": 1,
+      "baseHp": 980,
+      "baseAtk": 2104,
+      "baseDef": 920,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ixxh37tf8",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "y8gijsf6x",
+      "pokedexId": 11,
+      "name": "铁甲蛹",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 60,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ism075ijx",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "73w5x11yf",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jouxk42b3",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mmzvyl9ty",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "c0iqrn9h0",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "a1ki8n0xy",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "vdx4gsf4q",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "cvl9rcmek",
+      "pokedexId": 14,
+      "name": "铁壳蛹",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 70,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "aujmyp2wd",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "8eleqikzx",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "crbzgis9u",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "khn7fgfbs",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "i9naet8f0",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "dcm2uevag",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "nf5cc5l8t",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jamovuomf",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "uerwambbb",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0i4sm09a8",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u4sr8sy4n",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "2y9vresw3",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "62joi5doh",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jfgn0sbwg",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "vqwuyjom9",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "h4idoci3b",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u5x604uks",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "m9ay6i5dh",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "7iflpq79a",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "uoc4osjg8",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "3bxo7n52c",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "eqwkjwo7r",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "gpuav2ejm",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "7yfbrmmbe",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "hgq1rxgx2",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "o3esexr90",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jt0bicuwp",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "tbp4q1bwf",
+      "pokedexId": 20,
+      "name": "拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 130,
+      "baseAtk": 190,
+      "baseDef": 150,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "xg3cmkx6d",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jhdkrs0b7",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "27by6lax2",
+      "pokedexId": 149,
+      "name": "快龙",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "rarity": "Epic",
+      "stars": 1,
+      "baseHp": 900,
+      "baseAtk": 2010,
+      "baseDef": 950,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "zmr7pwgmx",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "4x78x1sgw",
+      "pokedexId": 10,
+      "name": "绿毛虫",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 60,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "h39xp9oz3",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "gbrbi5t78",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "aqgqcvh08",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "gxc8qp45n",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "35qx0wfqs",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "yifkohsrd",
+      "pokedexId": 11,
+      "name": "铁甲蛹",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 60,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "4pblm6sx6",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u67y24u51",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "r41jz5dbw",
+      "pokedexId": 8,
+      "name": "卡咪龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 136,
+      "baseAtk": 192,
+      "baseDef": 188,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "bexypr6ef",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "jtihjz5uy",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "u993b48z8",
+      "pokedexId": 20,
+      "name": "拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 130,
+      "baseAtk": 190,
+      "baseDef": 150,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "k35p9nb48",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mpwplpher",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "0p2p5jkh4",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "c4df6dfsf",
+      "pokedexId": 17,
+      "name": "比比鸟",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 150,
+      "baseDef": 120,
+      "baseSpeed": 50,
+      "baseSpAtk": 50,
+      "level": 1,
+      "exp": 0,
+      "equipment": {}
+    },
+    {
+      "id": "0yv2hfe00",
+      "pokedexId": 146,
+      "name": "火焰鸟",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "rarity": "Epic",
+      "stars": 1,
+      "baseHp": 980,
+      "baseAtk": 2040,
+      "baseDef": 920,
+      "baseSpeed": 50,
+      "baseSpAtk": 50,
+      "level": 1,
+      "exp": 0,
+      "equipment": {}
+    },
+    {
+      "id": "wubbulo97",
+      "pokedexId": 2,
+      "name": "妙蛙草",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 120,
+      "baseAtk": 195,
+      "baseDef": 147,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "csdsjia79",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "44ofyut61",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "lnf10e8sr",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "liwm4mzcr",
+      "pokedexId": 244,
+      "name": "炎帝",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Legendary",
+      "stars": 1,
+      "baseHp": 2060,
+      "baseAtk": 4300,
+      "baseDef": 2200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "9n5gwlrhw",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "5rb0s3q3w",
+      "pokedexId": 25,
+      "name": "皮卡丘",
+      "types": [
+        "Electric"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 140,
+      "baseAtk": 330,
+      "baseDef": 160,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "7dytytk95",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "ylmukq22t",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "wxo7h8ple",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "h1dyg3eya",
+      "pokedexId": 136,
+      "name": "火伊布",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 540,
+      "baseDef": 240,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "q31xkh4iu",
+      "pokedexId": 145,
+      "name": "闪电鸟",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "rarity": "Rare",
+      "stars": 1,
+      "baseHp": 280,
+      "baseAtk": 240,
+      "baseDef": 220,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "1eydr5akn",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "scqa3hgvf",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "uic8ir4a3",
+      "pokedexId": 13,
+      "name": "独角虫",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 70,
+      "baseDef": 70,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "chbhbhqxs",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "t9ml801md",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "pe3sl7mz8",
+      "pokedexId": 19,
+      "name": "小拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 70,
+      "baseAtk": 110,
+      "baseDef": 90,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "bjsddtqxr",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "qozc08rzx",
+      "pokedexId": 133,
+      "name": "伊布",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 220,
+      "baseAtk": 330,
+      "baseDef": 200,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "q3bsqq14o",
+      "pokedexId": 11,
+      "name": "铁甲蛹",
+      "types": [
+        "Bug"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 100,
+      "baseAtk": 60,
+      "baseDef": 110,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "mmsug1jp1",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "odi6srsxr",
+      "pokedexId": 1,
+      "name": "妙蛙种子",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 90,
+      "baseAtk": 147,
+      "baseDef": 98,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "v8l8q2b1o",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "kyg072qyh",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "d2cdeirdd",
+      "pokedexId": 20,
+      "name": "拉达",
+      "types": [
+        "Normal"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 130,
+      "baseAtk": 190,
+      "baseDef": 150,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "kdfeqze8d",
+      "pokedexId": 5,
+      "name": "火恐龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Uncommon",
+      "stars": 1,
+      "baseHp": 126,
+      "baseAtk": 204,
+      "baseDef": 144,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "r5ec6rppm",
+      "pokedexId": 16,
+      "name": "波波",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 80,
+      "baseAtk": 90,
+      "baseDef": 80,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "uv3i2e7c6",
+      "pokedexId": 4,
+      "name": "小火龙",
+      "types": [
+        "Fire"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 78,
+      "baseAtk": 156,
+      "baseDef": 86,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    },
+    {
+      "id": "d1ca4x5z3",
+      "pokedexId": 7,
+      "name": "杰尼龟",
+      "types": [
+        "Water"
+      ],
+      "rarity": "Common",
+      "stars": 1,
+      "baseHp": 88,
+      "baseAtk": 144,
+      "baseDef": 130,
+      "level": 1,
+      "equipment": {},
+      "exp": 0
+    }
+  ],
+  "teamIds": [
+    "fn9esfl0g",
+    "axrf44b31",
+    "7wpi89peo"
+  ],
+  "savedTeamIds": [
+    "fn9esfl0g",
+    "axrf44b31",
+    "7wpi89peo"
+  ],
+  "equipmentInventory": [],
+  "unlockedStages": 4
+}
