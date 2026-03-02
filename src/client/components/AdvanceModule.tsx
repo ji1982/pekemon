@@ -69,8 +69,58 @@ const AdvanceModule: React.FC<AdvanceModuleProps> = memo(({ inventory, onAdvance
   const [selected, setSelected] = useState<string[]>([]);
   const [sortOption, setSortOption] = useState<'rarity' | 'level' | 'stars'>('rarity');
 
-  // 一键选择稀有度最低的8个相同稀有度宝可梦
-  const autoSelectLowestRarity = useCallback(() => {
+  // 一键选择相同星级的8个宝可梦（优先选择数量最多的星级组合）
+  const autoSelectSameStars = useCallback(() => {
+    // 创建一个映射：稀有度 + 星级 -> 宝可梦列表
+    const rarityStarGroups: Record<string, Pokemon[]> = {};
+    
+    inventory.forEach(poke => {
+      const key = `${poke.rarity}-${poke.stars}`;
+      if (!rarityStarGroups[key]) {
+        rarityStarGroups[key] = [];
+      }
+      rarityStarGroups[key].push(poke);
+    });
+    
+    // 找到数量 >= 8 的组，按以下优先级排序：
+    // 1. 数量多的优先
+    // 2. 稀有度低的优先（Common -> Legendary）
+    // 3. 星级低的优先
+    const validGroups = Object.entries(rarityStarGroups)
+      .filter(([_, group]) => group.length >= 8)
+      .map(([key, group]) => {
+        const [rarity, starsStr] = key.split('-');
+        const stars = parseInt(starsStr);
+        const rarityOrder: Record<Rarity, number> = {
+          Common: 1, Uncommon: 2, Rare: 3, Epic: 4, Legendary: 5
+        };
+        return {
+          key,
+          group,
+          rarity: rarity as Rarity,
+          stars,
+          rarityValue: rarityOrder[rarity as Rarity],
+          count: group.length
+        };
+      })
+      .sort((a, b) => {
+        // 首先按数量降序
+        if (b.count !== a.count) return b.count - a.count;
+        // 然后按稀有度升序（低稀有度优先）
+        if (a.rarityValue !== b.rarityValue) return a.rarityValue - b.rarityValue;
+        // 最后按星级升序（低星级优先）
+        return a.stars - b.stars;
+      });
+    
+    if (validGroups.length > 0) {
+      // 选择第一个符合条件的组（数量最多，稀有度最低，星级最低）
+      const selectedGroup = validGroups[0].group;
+      const selectedIds = selectedGroup.slice(0, 8).map(poke => poke.id);
+      setSelected(selectedIds);
+      return;
+    }
+    
+    // 如果没有找到8个相同稀有度和星级的组合，退回到原来的逻辑
     // 按稀有度分组
     const rarityGroups: Record<Rarity, Pokemon[]> = {
       Common: [],
@@ -243,7 +293,7 @@ const AdvanceModule: React.FC<AdvanceModuleProps> = memo(({ inventory, onAdvance
             开始进阶
           </button>
           <button 
-            onClick={autoSelectLowestRarity}
+            onClick={autoSelectSameStars}
             className="w-40 py-2 bg-gray-700 hover:bg-gray-600 text-white rounded-lg text-sm font-bold transition-all"
           >
             一键选择

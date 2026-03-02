@@ -65,8 +65,8 @@ export const GameStateManager: React.FC<GameStateManagerProps> = ({ currentSaveS
         // 使用初始状态
         const initialState = {
           gold: 2000,
-          stamina: 100,
-          maxStamina: 100,
+          stamina: MAX_STAMINA,
+          maxStamina: MAX_STAMINA,
           lastStaminaUpdate: Date.now(),
           inventory: [
             {
