@@ -4,6 +4,7 @@ import { TYPE_COLORS, TYPE_TRANSLATIONS } from '@shared/constants';
 import { getCachedPokemonImage } from '../utils/imageCache';
 import { useImageLazyLoad } from '../hooks/useImageLazyLoad';
 import { calculatePowerScore } from '../utils/PowerCalculator';
+import { getExpForNextLevel } from '../utils/expUtils';
 
 // 稀有度标签映射（图标文本）
 const RARITY_ICONS: Record<Rarity, string> = {
