@@ -139,7 +139,8 @@ export const BattleManager: React.FC<BattleManagerProps> = ({
         payload: { 
           win, 
           rewards: { gold: rewards.gold, exp: expReward },
-          newEquipment: newEquip
+          newEquipment: newEquip,
+          stageId: battleStage.id
         } 
       });
       

@@ -4,7 +4,7 @@ import { TYPE_COLORS, TYPE_TRANSLATIONS } from '@shared/constants';
 import { getCachedPokemonImage } from '../utils/imageCache';
 import { useImageLazyLoad } from '../hooks/useImageLazyLoad';
 import { calculatePowerScore } from '../utils/PowerCalculator';
-import { getExpForNextLevel } from '../utils/expUtils';
+import { calculateExpPercentage } from '../utils/expUtils';
 
 // 稀有度标签映射（图标文本）
 const RARITY_ICONS: Record<Rarity, string> = {
@@ -98,7 +98,8 @@ const PokemonCard: React.FC<PokemonCardProps> = memo(({
           attributeLabel: 'text-[4px]',
           attributeValue: 'text-[4px] font-bold',
           star: 'text-[5px]',
-          iconSize: '5'
+          iconSize: '5',
+          expBarHeight: 'h-1'
         };
       case 'xs':
         return {
@@ -111,7 +112,8 @@ const PokemonCard: React.FC<PokemonCardProps> = memo(({
           attributeLabel: 'text-[8px]',
           attributeValue: 'text-[10px] font-bold',
           star: 'text-[12px]',
-          iconSize: '8'
+          iconSize: '8',
+          expBarHeight: 'h-1.5'
         };
       case 'sm':
         return {
@@ -124,7 +126,8 @@ const PokemonCard: React.FC<PokemonCardProps> = memo(({
           attributeLabel: 'text-xs',
           attributeValue: 'text-sm font-bold',
           star: 'text-lg',
-          iconSize: '12'
+          iconSize: '12',
+          expBarHeight: 'h-1.5'
         };
       case 'md':
         return {
@@ -137,7 +140,8 @@ const PokemonCard: React.FC<PokemonCardProps> = memo(({
           attributeLabel: 'text-xs',
           attributeValue: 'text-sm font-bold',
           star: 'text-xl',
-          iconSize: '16'
+          iconSize: '16',
+          expBarHeight: 'h-2'
         };
       case 'lg':
         return {
@@ -150,7 +154,8 @@ const PokemonCard: React.FC<PokemonCardProps> = memo(({
           attributeLabel: 'text-sm',
           attributeValue: 'text-lg font-bold',
           star: 'text-2xl',
-          iconSize: '20'
+          iconSize: '20',
+          expBarHeight: 'h-2.5'
         };
       default:
         return {
@@ -163,13 +168,20 @@ const PokemonCard: React.FC<PokemonCardProps> = memo(({
           attributeLabel: 'text-xs',
           attributeValue: 'text-sm font-bold',
           star: 'text-xl',
-          iconSize: '16'
+          iconSize: '16',
+          expBarHeight: 'h-2'
         };
     }
   }, [size]);
 
   // 计算综合实力评分（包含装备和技能）
   const powerScore = useMemo(() => calculatePowerScore(pokemon), [pokemon]);
+
+  // 计算经验值百分比
+  const expPercentage = useMemo(() => {
+    if (pokemon.level >= 100) return 100;
+    return calculateExpPercentage(pokemon.level, pokemon.exp || 0);
+  }, [pokemon.level, pokemon.exp]);
 
 
 
@@ -218,22 +230,33 @@ const PokemonCard: React.FC<PokemonCardProps> = memo(({
       {/* 内容容器 */}
       <div className="relative z-10 h-full flex flex-col p-2">
         {/* 顶部区域：稀有度图标 + 名称 + 战力 */}
-        <div className="flex items-start justify-between mb-2">
+        <div className="flex items-start justify-between mb-1">
           <div className="flex items-start gap-2">
             {/* 稀有度图标 */}
             <div className={rarityIconStyle}>
               {RARITY_ICONS[pokemon.rarity]}
             </div>
-            {/* 名称和等级 */}
-            <div className="flex-1 min-w-0">
-              <div className={sizeConfig.name}>{pokemon.name}</div>
-              <div className={`${sizeConfig.level} text-white`}>Lv.{pokemon.level}</div>
-            </div>
+            {/* 名称 */}
+            <div className={`${sizeConfig.name} min-w-0`}>{pokemon.name}</div>
           </div>
           {/* 战力显示 - 右上角 */}
           <div className={`text-yellow-400 ${sizeConfig.powerScore} font-black`}>
             {powerScore}
           </div>
+        </div>
+        
+        {/* 等级和经验条区域 - 固定宽度 */}
+        <div className="flex items-center justify-between mb-2">
+          <div className={`${sizeConfig.level} text-white`}>Lv.{pokemon.level}</div>
+          {/* 经验条 - 固定宽度，不随名称长度变化 */}
+          {pokemon.level < 100 && (
+            <div className={`w-24 ${sizeConfig.expBarHeight} bg-gray-700 rounded-full`}>
+              <div 
+                className="bg-gradient-to-r from-green-400 to-blue-500 rounded-full transition-all duration-300"
+                style={{ width: `${expPercentage}%` }}
+              ></div>
+            </div>
+          )}
         </div>
         
         {/* 中央弹性空间 - 减少占用，让底部信息靠下 */}

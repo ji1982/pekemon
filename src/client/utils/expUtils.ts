@@ -1,4 +1,9 @@
-import { EXP_TABLE } from './gameUtils';
+// 经验值表 - 1到100级所需经验值
+export const EXP_TABLE = Array.from({ length: 101 }, (_, i) => {
+  if (i === 0) return 0;
+  // 使用指数增长公式：level^3 * 10
+  return Math.floor(i ** 3 * 10);
+});
 
 // 计算当前经验值占到下一级所需经验的百分比
 export const calculateExpPercentage = (currentLevel: number, currentExp: number): number => {
