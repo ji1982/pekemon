@@ -1,12 +1,12 @@
-# Dependencies
-node_modules/
-
-# Build outputs
-dist/
-game/
+# Runtime files
+src/game-data/*.json
+deploy-and-restart.sh
 
 # Logs
 logs/
+
+# Node modules
+node_modules/
 
 # Environment variables
 .env
@@ -15,24 +15,13 @@ logs/
 .env.test.local
 .env.production.local
 
-# Editor directories and files
+# Build output
+dist/
+build/
+
+# IDE and editor files
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-
-# OS generated files
-Thumbs.db
 .DS_Store
-
-# Temporary files
-*.tmp
-*.temp
-
-# Testing
-coverage/
-.nyc_output/
-
-# Production
-build/
