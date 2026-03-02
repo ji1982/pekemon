@@ -72,6 +72,7 @@ const AppContent: React.FC<{ currentSaveSlot: string; onBackToStart?: () => void
       {activeTab === 'map' && (
         <MapModule 
           stages={INITIAL_STAGES} 
+          unlockedStages={gameState.unlockedStages}
           onStageSelect={handleStartBattle}
         />
       )}

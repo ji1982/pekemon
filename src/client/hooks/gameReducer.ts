@@ -152,14 +152,16 @@ export const gameReducer = (state: GameState, action: GameAction): GameState => 
     }
 
     case 'BATTLE_RESULT': {
-      const { win, rewards, newEquipment } = action.payload;
-      console.log('⚔️ [Reducer] BATTLE_RESULT 处理中:', { win, gold: rewards.gold, exp: rewards.exp, hasNewEquipment: !!newEquipment });
+      const { win, rewards, newEquipment, stageId } = action.payload;
+      console.log('⚔️ [Reducer] BATTLE_RESULT 处理中:', { win, gold: rewards.gold, exp: rewards.exp, hasNewEquipment: !!newEquipment, stageId });
       
       if (win) {
+        // 解锁下一关（当前关卡ID + 1）
+        const nextStageToUnlock = stageId ? stageId + 1 : state.unlockedStages + 1;
         return {
           ...state,
           gold: state.gold + rewards.gold,
-          unlockedStages: Math.max(state.unlockedStages, 1)
+          unlockedStages: Math.max(state.unlockedStages, nextStageToUnlock)
         };
       } else {
         return state;
